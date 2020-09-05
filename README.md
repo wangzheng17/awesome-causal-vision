@@ -25,5 +25,17 @@ I might have missed some paper(s) or added some irrelevant paper(s). Feel free t
 
 11. Agarwal, V., Shetty, R. and Fritz, M., 2020. **Towards causal vqa: Revealing and reducing spurious correlations by invariant and covariant semantic editing.** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.pdf)
 
+12. Zeng, S., Zhang, P., Charles, D., Manavoglu, E., & Kiciman, E. 2019. **Robust Neural Network for Causal Invariant Features Extraction.** NIPS workshop. [[Paper]](https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/a/238/files/2019/12/Id_98_final.pdf)
+
+13. Zhang, S., Jiang, T., Wang, T., Kuang, K., Zhao, Z., Zhu, J., Yu, J., Yang, H. and Wu, F., 2020. **DeVLBert: Learning Deconfounded Visio-Linguistic Representations.** arXiv preprint arXiv:2008.06884. [[Paper]](https://arxiv.org/pdf/2008.06884.pdf)
+
 ## Datasets
 1. Yi, K., Gan, C., Li, Y., Kohli, P., Wu, J., Torralba, A. and Tenenbaum, J.B., 2019. **Clevrer: Collision events for video representation and reasoning.** arXiv preprint arXiv:1910.01442. [[Paper]](https://arxiv.org/pdf/1910.01442.pdf) [[Project]](http://clevrer.csail.mit.edu/)
+
+## Survey
+1. Guo, R., Cheng, L., Li, J., Hahn, P.R. and Liu, H., 2020. **A survey of learning causality with data: Problems and methods.** ACM Computing Surveys (CSUR), 53(4), pp.1-37. [[Paper]](https://arxiv.org/pdf/1809.09337.pdf)
+
+2. Kuang, K., Li, L., Geng, Z., Xu, L., Zhang, K., Liao, B., Huang, H., Ding, P., Miao, W. and Jiang, Z., 2020. **Causal Inference.** Engineering, 6(3), pp.253-263. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2095809919305235)
+
+## Groups
+1. Microsoft Causality and Machine Learning Group [[Link]](https://www.microsoft.com/en-us/research/group/causal-inference/)
