@@ -1,8 +1,10 @@
 # Awesome Causal Vision
+
 A curated list of research papers in exploring causality in vision. Link to the code if available is also present.
 I might have missed some paper(s) or added some irrelevant paper(s). Feel free to open an issue in that case. I will go through the paper and then add / remove it. 
 
 ## Paper
+
 1. **Discovering causal signals in images.** Lopez-Paz, D., Nishihara, R., Chintala, S., Scholkopf, B. and Bottou, L., 2017. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lopez-Paz_Discovering_Causal_Signals_CVPR_2017_paper.pdf)
 
 2. **Causally regularized learning with agnostic data selection bias.** Shen, Z., Cui, P., Kuang, K., Li, B. and Chen, P., 2018. Proceedings of the 26th ACM international conference on Multimedia. [[Paper]](https://arxiv.org/pdf/1708.06656.pdf)
@@ -39,3 +41,35 @@ I might have missed some paper(s) or added some irrelevant paper(s). Feel free t
 
 ## Groups
 1. Microsoft Causality and Machine Learning Group [[Link]](https://www.microsoft.com/en-us/research/group/causal-inference/)
+
+
+## Causality Books
+
+1. Interpretation and identification of causal mediation. Judea Pearl, 2014. [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r389.pdf)
+2. (book) The Book of Why. Judea Pearl, 2018. [[onedrive]][21]
+3. (book) The Book of Why(中文版). Judea Pearl & Dana Mackenzie, 江⽣ & 于华 译, 2018. [[onedrive]][22]
+4. (book) Causality: Models, Reasoning, and Inference(2nd Edition). Judea Pearl, 2009. [[onedrive]][23]
+5. (book) Causal inference in statistics: An overview. Judea Pearl, on Statistics Surveys, 2009. [[onedrive]][24]
+6. (book) 因果推断简介. 丁鹏(北京大学). [[onedrive]][25]
+7. (book) Causal Inference - What If. Miguel A. Hernán & James M. Robins, 2019. [[onedrive]][26]
+8. (book) Elements of Causal Inference: Foundations and Learning Algorithms. MIT, 2020. [[onedrive]][27]
+9. (book) Introduction to Causal Inference: from a Machine Learning Perspective. Brady Neal, Course Lecture Notes, 2020. [[onedrive]][35]
+
+
+## Causality PPT
+
+1. KDD 2020 Tutorial - Causal Inference and Stable Learning. [[ppt]][36]
+2. MLSS 2020 - Causility. [[onedrive]][37]
+3. MLSS 2020 - Causal Inference II. [[onedrive]][38]
+
+[21]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ET2Ge2D6KAJOlrvBoAjA-okBQqz0FNVaY_Mwnd2Yn0scHA?e=2ElBsM
+[22]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ER1d1Fq5xcpGjIpUU8edEvIBVzpDMuXUBG87Sr_YD7Oovw?e=2bDLR3
+[23]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EWW5sS4nXdZLteH9fCgdPbkBh2Wfcmt_ANeM-_IixOv3EQ?e=GV06gd
+[24]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESYiU9Fb9qdAquBFL1eGPr8BQBTKEJ51JQ_fiiu2Rc9aKQ?e=ZbHJH7
+[25]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ERHBtAQEM2NAlL14zRpXkaQBYlbQAxjbsKRgx4C2rLF4ZA?e=hxU5yH
+[26]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EX5-ycA86M1Lkh9CgYNW7SIBveOjgNJi9mCiNp5wCl5fhg?e=Rnz67v
+[27]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/ESilloi4DeBCiueEVL2s-NoBG9mqM_W0vzX30WERGepwKg?e=EalUmR
+[35]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EdYZWPDSiXlAhAd8SG1H1c8BOCr-cG-ax2_dacnQ3iMgrg?e=LaY4cB
+[36]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EWQ79wSjhOlGuLC6OMrNm-cBBj0SZC23KXuVJP5FLGMykQ?e=uKbb3l
+[37]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EZADZ95fqPBEn7RQZIC2GK8B4mmGJpIVdZv7F2FEFZ7Isw?e=jgFzgx
+[38]:https://whuteducn-my.sharepoint.com/:b:/g/personal/frankliuceo_whut_edu_cn/EUDgEfij6LlGrlMwLP8tF9gBoHdoEVd1kynOyTYzvy3jnQ?e=2QgCQp
